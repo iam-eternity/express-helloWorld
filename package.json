@@ -1,0 +1,11 @@
+{
+  "name": "express-helloworld",
+  "version": "1.0.0",
+  "description": "fun with backend",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Aakash",
+  "license": "ISC"
+}
